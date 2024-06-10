@@ -8,6 +8,7 @@ Nesse notebook, iremos implementar com o Keras/Tensorflow duas métricas do Scik
 * F1-Score
 * Balanced Accuracy Score
 
+Essas métricas são úteis para avaliar o desempenho de modelos de classificação, especialmente quando o conjunto de dados é desbalanceado.
 
 #### **Métricas Personalizadas**
 
